@@ -1,0 +1,3 @@
+Add -> commit -> push
+
+Pull for extracting from Github to local repository
